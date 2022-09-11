@@ -1,6 +1,6 @@
 # Application Deployment Link
-main deployment: https://pbp-tugas-2-django.herokuapp.com/
-Katalog Page: https://pbp-tugas-2-django.herokuapp.com/katalog/
+### main deployment: https://pbp-tugas-2-django.herokuapp.com/
+### Katalog Page: https://pbp-tugas-2-django.herokuapp.com/katalog/
 
 ## Buatlah bagan yang berisi request client ke web aplikasi berbasis Django beserta responnya dan jelaskan pada bagan tersebut kaitan antara urls.py, views.py, models.py, dan berkas html
 
