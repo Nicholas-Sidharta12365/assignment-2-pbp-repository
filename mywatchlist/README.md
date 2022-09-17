@@ -1,8 +1,8 @@
 # Application Deployment Link
 ### main deployment: https://pbp-tugas-2-django.herokuapp.com/
-### Watchlist Page (HTML):
-### Watchlist Page (XML): 
-### Watchlist Page (JSON):
+### Watchlist Page (HTML): https://pbp-tugas-2-django.herokuapp.com/mywatchlist/html/
+### Watchlist Page (XML): https://pbp-tugas-2-django.herokuapp.com/mywatchlist/xml/
+### Watchlist Page (JSON): https://pbp-tugas-2-django.herokuapp.com/mywatchlist/json/
 
 ## Jelaskan perbedaan antara JSON, XML, dan HTML!
 JSON atau JavaScript Object Notation adalah sebuah format penukaran data yang ringan dan independen. Dimana JSON dibuat berbasiskan sebuah bahasa pemrograman yang dinamakan Javascript (JS). Sedangkan XML atau Extensible markup language adalah sebuah bahasa markup yang mendefinisikan sebuah set peraturan untuk encoding agar sebuah dokumen dapat mudah dibaca untuk manusia dan mesin. XML diturunkan dari SGML atau Standard Generalized Markup Language. XML didesain untuk membawa data bukan untuk mendisplay data sehingga fokus dari XML sendiri adalah sebuah bahasa yang sederhana, general, dan kegunaannya di seluruh internet. Sedangkan HTML atau HyperText Markup Language adalah sebuah bahasa markup yang menjadi fondasi pembuatan interface sebuah platform web. Akan tetapi karena HTML bukan merupakan bahasa pemrograman maka HTML pada dasarnya statis dan perlu bantuan bahasa pemrograman lain untuk membuat sebuah platform dinamis, contohnya dengan javascript untuk fungsionalitas dan CSS (Cascading Style Sheets) untuk mendesain sebuah halaman web.
