@@ -7,7 +7,6 @@ class Watchlist(models.Model):
     watched = models.BooleanField()
     title = models.TextField()
     rating = models.FloatField(
-        default=1.0, 
         validators=[
             MaxValueValidator(5.0), MinValueValidator(1.0)
             ]
