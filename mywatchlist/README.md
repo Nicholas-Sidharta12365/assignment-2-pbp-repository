@@ -165,9 +165,12 @@ untuk mengupload schema serta me-load data dari database agar dapat di parse ke 
 ## Screenshot Postman
 1. HTML
 ![html](html_postman.jpg)
+![html](html_postman_code.jpg)
 
 2. XML
 ![xml](xml_postman.jpg)
+![xml](xml_postman_code.jpg)
 
 3. JSON
 ![json](json_postman.jpg)
+![json](json_postman_code.jpg)
