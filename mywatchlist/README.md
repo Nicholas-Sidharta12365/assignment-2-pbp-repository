@@ -110,7 +110,7 @@ Dengan isi html tersebut, maka nanti ~/watchlist akan berisi display statis dari
     <tr>
       <th>{{movie.watched}}</th>
       <th>{{movie.title}}</th>
-      <th>{{movie.rating}}</th>
+      <th>{{movie.movie_rating}}</th>
       <th>{{movie.release_date}}</th>
       <th>{{movie.review}}</th>
     </tr>
