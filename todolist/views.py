@@ -45,7 +45,7 @@ def todolist(request):
     data = Task.objects.all().filter(user = tmp_user)
 
     context ={
-        'username' : tmp_user.username,
+        'username' : tmp_user,
         'taskData' : data,
     }
 
