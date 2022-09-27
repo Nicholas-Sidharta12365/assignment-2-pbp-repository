@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+ {% block content %}
+
+  <h1>Tugas 3 Assignment PBP/PBD</h1>
+  <h2>Todolist</h2>
+
+  <h5>Name: </h5>
+  <p>{{username}}</p>
+
+  <table>
+    <tr>
+      <th>Date</th>
+      <th>Title</th>
+      <th>Description</th>
+    </tr>
+    {% for data in taskData %}
+    <tr>
+      <th>{{data.date}}</th>
+      <th>{{data.title}}</th>
+      <th>{{data.description}}</th>
+    </tr>
+    {% endfor %}
+  </table>
+  <br>
+  <button><a href="/todolist/create-task/">Create New Task</a></button>
+  <br>
+  <button><a href="/todolist/logout/">Logout</a></button>
+
+ {% endblock content %}
